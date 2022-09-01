@@ -7,28 +7,29 @@
         mc:Ignorable="d"
         Title="Rat Prototype 3000" Height="600" Width="800">
     <Grid Background="DarkSeaGreen">
-        <Canvas HorizontalAlignment="Left" Height="550.4" Margin="10,10,0,0" VerticalAlignment="Top" Width="773.6" Background="LemonChiffon"/>
-        <Canvas x:Uid="UIModules" Margin="26.397,17.613,30.8,-113.6">
-            <Path Fill="DarkSeaGreen">
-                <Path.Data>
-                    <RectangleGeometry x:Uid="LargeBox" Rect="412,0,320,533" RadiusX="10" RadiusY="10"/>
-                </Path.Data>
-            </Path>
-            <Path Fill="DarkSeaGreen">
-                <Path.Data>
-                    <RectangleGeometry x:Uid="FirstBox" Rect="0,0,373,132" RadiusX="10" RadiusY="10"/>
-                </Path.Data>
-            </Path>
-            <Path Fill="DarkSeaGreen">
-                <Path.Data>
-                    <RectangleGeometry x:Uid="LastBox" Rect="0,402,373,132" RadiusX="10" RadiusY="10"/>
-                </Path.Data>
-            </Path>
-            <Path Fill="DarkSeaGreen">
-                <Path.Data>
-                    <RectangleGeometry x:Uid="MiddleBox" Rect="0,201,373,132" RadiusX="10" RadiusY="10"/>
-                </Path.Data>
-            </Path>
+        <Canvas HorizontalAlignment="Left" Height="550.4" Margin="10,10,0,0" VerticalAlignment="Top" Width="773.6" Background="LemonChiffon">
+            <Canvas x:Uid="UIModules" Margin="26.397,17.613,30.8,-113.6">
+                <Path Fill="DarkSeaGreen">
+                    <Path.Data>
+                        <RectangleGeometry x:Uid="LargeBox" Rect="412,0,320,533" RadiusX="10" RadiusY="10"/>
+                    </Path.Data>
+                </Path>
+                <Path Fill="DarkSeaGreen">
+                    <Path.Data>
+                        <RectangleGeometry x:Uid="FirstBox" Rect="0,0,373,150" RadiusX="10" RadiusY="10"/>
+                    </Path.Data>
+                </Path>
+                <Path Fill="DarkSeaGreen">
+                    <Path.Data>
+                        <RectangleGeometry x:Uid="MiddleBox" Rect="0,180,373,150" RadiusX="10" RadiusY="10"/>
+                    </Path.Data>
+                </Path>
+                <Path Fill="DarkSeaGreen">
+                    <Path.Data>
+                        <RectangleGeometry x:Uid="LastBox" Rect="0,360,373,150" RadiusX="10" RadiusY="10"/>
+                    </Path.Data>
+                </Path>
+            </Canvas>
         </Canvas>
     </Grid>
 </Window>
