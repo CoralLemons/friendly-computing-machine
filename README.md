@@ -6,7 +6,7 @@ New repo for a more organized project
 ---
 
 ### General game idea
-You are a mouse. You can collect items, learn spells, and iteract with the world and creatures in it.  
+You are a rodent. You can collect items, learn spells, and iteract with the world and creatures in it.  
 
 #### Things to still be added
 - [ ] General skeleton
