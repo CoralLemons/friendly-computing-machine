@@ -1,0 +1,15 @@
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\RPGMain.exe.config
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\RPGMain.exe
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\RPGMain.pdb
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.AssemblyReference.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\MainWindow.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\App.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain_MarkupCompile.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain_MarkupCompile.lref
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\MainWindow.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.g.resources
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.Properties.Resources.resources
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.GenerateResource.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.CoreCompileInputs.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.exe
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.pdb
