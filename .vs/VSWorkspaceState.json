@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RPGMain"
   ],
+  "SelectedNode": "\\RPGMain\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
