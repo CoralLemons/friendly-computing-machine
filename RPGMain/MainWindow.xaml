@@ -1,0 +1,36 @@
+﻿<Window x:Class="RPGMain.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RPGMain"
+        mc:Ignorable="d"
+        Title="Rat Prototype 3000" Height="650" Width="800">
+    <Grid Background="DarkSeaGreen">
+        <Canvas HorizontalAlignment="Left" Height="600.4" Margin="10,10,0,0" VerticalAlignment="Top" Width="773.6" Background="LemonChiffon">
+            <Canvas x:Uid="UIModules" Margin="26.397,17.613,30.8,-113.6">
+                <Path Fill="DarkSeaGreen" Canvas.Top="10" Canvas.Left="-10">
+                    <Path.Data>
+                        <RectangleGeometry x:Uid="LargeBox" Rect="412,0,320,533" RadiusX="10" RadiusY="10"/>
+                    </Path.Data>
+                </Path>
+                <Path Fill="DarkSeaGreen" Canvas.Top="21">
+                    <Path.Data>
+                        <RectangleGeometry x:Uid="FirstBox" Rect="0,0,373,150" RadiusX="10" RadiusY="10"/>
+                    </Path.Data>
+                </Path>
+                <Path Fill="DarkSeaGreen" Canvas.Top="21">
+                    <Path.Data>
+                        <RectangleGeometry x:Uid="MiddleBox" Rect="0,180,373,150" RadiusX="10" RadiusY="10"/>
+                    </Path.Data>
+                </Path>
+                <Path Fill="DarkSeaGreen" Canvas.Top="21">
+                    <Path.Data>
+                        <RectangleGeometry x:Uid="LastBox" Rect="0,360,373,150" RadiusX="10" RadiusY="10"/>
+                    </Path.Data>
+                </Path>
+            </Canvas>
+        </Canvas>
+    </Grid>
+
+</Window>
