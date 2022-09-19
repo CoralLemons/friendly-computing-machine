@@ -5,39 +5,34 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RPGMain"
         mc:Ignorable="d"
-        Title="Rat Prototype 3000" Height="900" Width="1000">
+        Title="Rat Prototype 3000" Height="850" Width="625">
     <Grid Background="DarkSeaGreen">
-        <Canvas x:Name="UIMock_New_Continue_Credits" Height="800" Width="900">
-            <Path Fill="#8FBC8F">
-                <Path.Data>
-                    <RectangleGeometry Rect="0,0,900,800" RadiusX="5" RadiusY="5"/>
-                </Path.Data>
-            </Path>
-            <Path Fill="#FFFACD">
-                <Path.Data>
-                    <RectangleGeometry Rect="20,25,865,765" RadiusX="5" RadiusY="5"/>
-                </Path.Data>
-            </Path>
+        <Canvas x:Name="UIMock_New_Continue_Credits" Height="800" Width="567">
+            <Path Fill="#FFFACD" Data="M20 30C20 27.2386 22.2386 25 25 25L539 25C541.761 25 544 27.2386 544 30V785C544 787.761 541.761 790 539 790H25C22.2386 790 20 787.761 20 785L20 30Z"/>
             <Path StrokeThickness="4" Stroke="#8FBC8F" Fill="#8FBC8F" x:Name="NewGameModule">
                 <Path.Data>
-                    <RectangleGeometry Rect="39,42,822,204" RadiusX="12" RadiusY="12"/>
+                    <RectangleGeometry Rect="39,42,481,178.688" RadiusX="12" RadiusY="12"/>
                 </Path.Data>
             </Path>
-            <Path StrokeThickness="4" Stroke="#8FBC8F" Fill="#8FBC8F" x:Name="CreditsModule" Canvas.Top="-70.668">
+            <Path StrokeThickness="4" Stroke="#8FBC8F" Fill="#8FBC8F" x:Name="CreditsModule">
                 <Path.Data>
-                    <RectangleGeometry Rect="39,554,822,204" RadiusX="12" RadiusY="12"/>
+                    <RectangleGeometry Rect="39,437.375,481,178.688" RadiusX="12" RadiusY="12"/>
                 </Path.Data>
             </Path>
-            <Path StrokeThickness="4" Stroke="#8FBC8F" Fill="#8FBC8F" x:Name="ContinueGameModule" Canvas.Top="-34.668">
+            <Path StrokeThickness="4" Stroke="#8FBC8F" Fill="#8FBC8F" x:Name="ContinueGameModule">
                 <Path.Data>
-                    <RectangleGeometry Rect="39,298,822,204" RadiusX="12" RadiusY="12"/>
+                    <RectangleGeometry Rect="39,239.688,481,178.688" RadiusX="12" RadiusY="12"/>
                 </Path.Data>
             </Path>
-            <Path StrokeThickness="4" Stroke="Crimson" Fill="DarkRed" x:Name="ExitGameModule" Canvas.Left="263.334" Height="59.999" Stretch="Fill" Width="376.333" Canvas.Top="707.335">
+            <Path StrokeThickness="4" Stroke="Crimson" Fill="DarkRed" x:Name="ExitGameModule">
                 <Path.Data>
-                    <RectangleGeometry Rect="39,554,822,204" RadiusX="12" RadiusY="12"/>
+                    <RectangleGeometry Rect="96,635.062,367,138" RadiusX="12" RadiusY="12"/>
                 </Path.Data>
             </Path>
+            <TextBlock x:Name="NewGameTextBlock" MouseLeftButtonDown="NewGame_OnClick" Height="122" Canvas.Left="48" Text="New Game" Canvas.Top="100.688" Width="474" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="Consolas" FontSize="48" TextAlignment="Center"/>
+            <TextBlock x:Name="ContinueTextBlock" MouseLeftButtonDown="ContinueGame_OnClick" Height="111.334" Canvas.Left="48" TextWrapping="Wrap" Text="Continue" Canvas.Top="288.067" Width="474" VerticalAlignment="Center" HorizontalAlignment="Center" FontStretch="ExtraExpanded" FontFamily="Consolas" FontSize="48" TextAlignment="Center"/>
+            <TextBlock x:Name="CreditsTextBlock" MouseLeftButtonDown="Credits_OnClick" Height="132.666" Canvas.Left="48" TextWrapping="Wrap" Text="Credits" Canvas.Top="485.397" Width="474" VerticalAlignment="Center" HorizontalAlignment="Center" FontStretch="ExtraExpanded" FontFamily="Consolas" FontSize="48" TextAlignment="Center"/>
+            <TextBlock x:Name="ExitTextBlock" MouseLeftButtonDown="Exit_OnClick" Height="59.999" Canvas.Left="102.666" TextWrapping="Wrap" Text="Exit" Canvas.Top="678.668" Width="362.334" VerticalAlignment="Center" HorizontalAlignment="Center" FontStretch="ExtraExpanded" FontFamily="Consolas" FontSize="48" Foreground="White" TextAlignment="Center"/>
         </Canvas>
     </Grid>
 

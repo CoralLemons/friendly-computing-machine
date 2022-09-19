@@ -1,17 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
+﻿using System.Windows;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+using RPGMain.UI_Templates;
 
 namespace RPGMain
 {
@@ -24,5 +13,44 @@ namespace RPGMain
         {
             InitializeComponent();
         }
-    }
-}
+
+         /// <summary>
+         /// User selected 'New Game' from main menu
+         /// </summary>
+        private void NewGame_OnClick(object sender, MouseButtonEventArgs e)
+        {
+            GameWindowNewGame newGameStart = new GameWindowNewGame();
+            newGameStart.Show();
+            this.Close(); // close main menu 
+        }
+
+        /// <summary>
+        /// User selected 'Continue' from main menu
+        /// </summary>
+        private void ContinueGame_OnClick(object sender, MouseButtonEventArgs e)
+        {
+            GameWindowContinueGame continueGameStart = new GameWindowContinueGame();
+            continueGameStart.Show();
+            this.Close(); // close main menu 
+        }
+
+        /// <summary>
+        /// User selected 'Credits' from main menu
+        /// </summary>
+        private void Credits_OnClick(object sender, MouseButtonEventArgs e)
+        {
+            Credits showCredits = new Credits();
+            showCredits.Show();
+            this.Close(); // close main menu 
+        }
+
+        /// <summary>
+        /// User selected 'Exit' from main menu
+        /// </summary>
+        private void Exit_OnClick(object sender, MouseButtonEventArgs e)
+        {
+            this.Close(); // close program
+        }
+    }// end MainWindow
+
+}// end namespace RPG
