@@ -5,31 +5,39 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RPGMain"
         mc:Ignorable="d"
-        Title="Rat Prototype 3000" Height="650" Width="800">
+        Title="Rat Prototype 3000" Height="900" Width="1000">
     <Grid Background="DarkSeaGreen">
-        <Canvas HorizontalAlignment="Left" Height="600.4" Margin="10,10,0,0" VerticalAlignment="Top" Width="773.6" Background="LemonChiffon">
-            <Canvas x:Uid="UIModules" Margin="26.397,17.613,30.8,-113.6">
-                <Path Fill="DarkSeaGreen" Canvas.Top="10" Canvas.Left="-10">
-                    <Path.Data>
-                        <RectangleGeometry x:Uid="LargeBox" Rect="412,0,320,533" RadiusX="10" RadiusY="10"/>
-                    </Path.Data>
-                </Path>
-                <Path Fill="DarkSeaGreen" Canvas.Top="21">
-                    <Path.Data>
-                        <RectangleGeometry x:Uid="FirstBox" Rect="0,0,373,150" RadiusX="10" RadiusY="10"/>
-                    </Path.Data>
-                </Path>
-                <Path Fill="DarkSeaGreen" Canvas.Top="21">
-                    <Path.Data>
-                        <RectangleGeometry x:Uid="MiddleBox" Rect="0,180,373,150" RadiusX="10" RadiusY="10"/>
-                    </Path.Data>
-                </Path>
-                <Path Fill="DarkSeaGreen" Canvas.Top="21">
-                    <Path.Data>
-                        <RectangleGeometry x:Uid="LastBox" Rect="0,360,373,150" RadiusX="10" RadiusY="10"/>
-                    </Path.Data>
-                </Path>
-            </Canvas>
+        <Canvas x:Name="UIMock_New_Continue_Credits" Height="800" Width="900">
+            <Path Fill="#8FBC8F">
+                <Path.Data>
+                    <RectangleGeometry Rect="0,0,900,800" RadiusX="5" RadiusY="5"/>
+                </Path.Data>
+            </Path>
+            <Path Fill="#FFFACD">
+                <Path.Data>
+                    <RectangleGeometry Rect="20,25,865,765" RadiusX="5" RadiusY="5"/>
+                </Path.Data>
+            </Path>
+            <Path StrokeThickness="4" Stroke="#8FBC8F" Fill="#8FBC8F" x:Name="NewGameModule">
+                <Path.Data>
+                    <RectangleGeometry Rect="39,42,822,204" RadiusX="12" RadiusY="12"/>
+                </Path.Data>
+            </Path>
+            <Path StrokeThickness="4" Stroke="#8FBC8F" Fill="#8FBC8F" x:Name="CreditsModule" Canvas.Top="-70.668">
+                <Path.Data>
+                    <RectangleGeometry Rect="39,554,822,204" RadiusX="12" RadiusY="12"/>
+                </Path.Data>
+            </Path>
+            <Path StrokeThickness="4" Stroke="#8FBC8F" Fill="#8FBC8F" x:Name="ContinueGameModule" Canvas.Top="-34.668">
+                <Path.Data>
+                    <RectangleGeometry Rect="39,298,822,204" RadiusX="12" RadiusY="12"/>
+                </Path.Data>
+            </Path>
+            <Path StrokeThickness="4" Stroke="Crimson" Fill="DarkRed" x:Name="ExitGameModule" Canvas.Left="263.334" Height="59.999" Stretch="Fill" Width="376.333" Canvas.Top="707.335">
+                <Path.Data>
+                    <RectangleGeometry Rect="39,554,822,204" RadiusX="12" RadiusY="12"/>
+                </Path.Data>
+            </Path>
         </Canvas>
     </Grid>
 
