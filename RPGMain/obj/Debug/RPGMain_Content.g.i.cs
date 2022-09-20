@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("splashscreen-wc.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ui%20templates/nebula.png")]
 
 

@@ -13,3 +13,9 @@ C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.cspro
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.CoreCompileInputs.cache
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.exe
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.pdb
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\Credits.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowContinueGame.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowNewGame.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\Credits.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowContinueGame.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowNewGame.baml
