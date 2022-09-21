@@ -10,20 +10,19 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace RPGMain.UI_Templates
 {
     /// <summary>
-    /// Interaction logic for GameWindowNewGame.xaml
+    /// Interaction logic for TestPage.xaml
     /// </summary>
-    public partial class GameWindowNewGame : Window
+    public partial class TestPage : Page
     {
-        public GameWindowNewGame()
+        public TestPage()
         {
             InitializeComponent();
-            TestPage page = new TestPage();
-            this.Content = page;
         }
     }
 }

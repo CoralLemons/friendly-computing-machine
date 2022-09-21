@@ -22,3 +22,5 @@ C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Images.baml
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Textures.baml
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\App.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\TestPage.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\TestPage.baml
