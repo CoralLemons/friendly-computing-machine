@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\App.xaml
-4-776354565
+6184687020
 
 9911888396
 13152784993
-MainWindow.xaml;UI Templates\Credits.xaml;UI Templates\GameWindowContinueGame.xaml;UI Templates\GameWindowNewGame.xaml;
+MainWindow.xaml;Resources\Images.xaml;Resources\Textures.xaml;UI Templates\Credits.xaml;UI Templates\GameWindowContinueGame.xaml;UI Templates\GameWindowNewGame.xaml;
 splashscreen-wc.png
-False
+True
 

@@ -19,3 +19,6 @@ C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\Credits.baml
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowContinueGame.baml
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowNewGame.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Images.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Textures.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\App.baml

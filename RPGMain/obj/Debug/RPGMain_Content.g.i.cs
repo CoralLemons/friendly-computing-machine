@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ui%20templates/nebula.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("imgs/pixil-frame-0.png")]
 
 
