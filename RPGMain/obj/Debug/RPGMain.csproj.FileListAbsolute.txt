@@ -1,6 +1,9 @@
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\RPGMain.exe.config
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\RPGMain.exe
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\RPGMain.pdb
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\WpfAnimatedGif.dll
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\WpfAnimatedGif.xml
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Images.baml
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Textures.baml
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\CharacterOverviewControl.g.cs
@@ -33,10 +36,6 @@ C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.g.res
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.Properties.Resources.resources
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.GenerateResource.cache
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.CoreCompileInputs.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.CopyComplete
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.exe
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.pdb
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.AssemblyReference.cache
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\WpfAnimatedGif.dll
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\WpfAnimatedGif.pdb
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\WpfAnimatedGif.xml
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.CopyComplete

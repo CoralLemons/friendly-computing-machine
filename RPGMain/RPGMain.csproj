@@ -202,5 +202,13 @@
     <Resource Include="Resources\Imgs\Sprites\horned-slime.png" />
     <Resource Include="Resources\Imgs\Sprites\neon-horned-slime.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Imgs\Gifs\walking-long.gif" />
+    <Resource Include="Resources\Imgs\Gifs\walking.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Imgs\gem-large-static.png" />
+    <Resource Include="Resources\Imgs\idle-character-nav.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
