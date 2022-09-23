@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/gem-large-static.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/idle-character-nav.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/gifs/forest-walking.gif")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/gifs/parallax-mountain.gif")]
 
 

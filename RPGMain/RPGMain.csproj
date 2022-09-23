@@ -210,5 +210,9 @@
     <Resource Include="Resources\Imgs\gem-large-static.png" />
     <Resource Include="Resources\Imgs\idle-character-nav.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Imgs\Gifs\forest-walking.gif" />
+    <Resource Include="Resources\Imgs\Gifs\parallax-mountain.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
