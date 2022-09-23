@@ -36,3 +36,7 @@ C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.cspro
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.exe
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.pdb
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.AssemblyReference.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\WpfAnimatedGif.dll
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\WpfAnimatedGif.pdb
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\WpfAnimatedGif.xml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.CopyComplete

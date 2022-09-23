@@ -4,10 +4,16 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:RPGMain.Controls"
+             xmlns:gif="http://wpfanimatedgif.codeplex.com"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <!--This serves as the screen for navigating to saved data then starting in GameWindow-->
     <Grid>
-       
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Image Grid.Column="0" gif:ImageBehavior.AnimatedSource="/Resources/Imgs/Gifs/horned-slime.gif"/>
+        <Image Grid.Column="1" gif:ImageBehavior.AnimatedSource="/Resources/Imgs/Gifs/neon-horned-slime.gif"/>
     </Grid>
 </UserControl>
