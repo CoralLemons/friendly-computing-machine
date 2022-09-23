@@ -10,16 +10,17 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace RPGMain.UI_Templates
+namespace RPGMain.Controls
 {
     /// <summary>
-    /// Interaction logic for GameWindowNewGame.xaml
+    /// Interaction logic for NewCharacterControl.xaml
     /// </summary>
-    public partial class GameWindowNewGame : Window
+    public partial class NewCharacterControl : UserControl
     {
-        public GameWindowNewGame()
+        public NewCharacterControl()
         {
             InitializeComponent();
         }

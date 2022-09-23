@@ -19,7 +19,7 @@ namespace RPGMain
          /// </summary>
         private void NewGame_OnClick(object sender, MouseButtonEventArgs e)
         {
-            GameWindowNewGame newGameStart = new GameWindowNewGame();
+            GameWindow newGameStart = new GameWindow("New Game");
             newGameStart.Show();
             this.Close(); // close main menu 
         }
@@ -29,7 +29,7 @@ namespace RPGMain
         /// </summary>
         private void ContinueGame_OnClick(object sender, MouseButtonEventArgs e)
         {
-            GameWindowContinueGame continueGameStart = new GameWindowContinueGame();
+            GameWindow continueGameStart = new GameWindow("Continue Game");
             continueGameStart.Show();
             this.Close(); // close main menu 
         }

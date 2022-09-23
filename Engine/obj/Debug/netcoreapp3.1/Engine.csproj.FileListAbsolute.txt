@@ -1,0 +1,10 @@
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\bin\Debug\netcoreapp3.1\Engine.deps.json
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\bin\Debug\netcoreapp3.1\Engine.dll
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\bin\Debug\netcoreapp3.1\Engine.pdb
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.AssemblyReference.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\obj\Debug\netcoreapp3.1\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfoInputs.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\obj\Debug\netcoreapp3.1\Engine.AssemblyInfo.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\obj\Debug\netcoreapp3.1\Engine.csproj.CoreCompileInputs.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\obj\Debug\netcoreapp3.1\Engine.dll
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\Engine\obj\Debug\netcoreapp3.1\Engine.pdb
