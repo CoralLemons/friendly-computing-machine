@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\App.xaml
-71995783770
+131513358274
 
-9-123427100
+15-1703720365
 13152784993
-MainWindow.xaml;Resources\Images.xaml;Resources\Textures.xaml;UI Templates\Credits.xaml;UI Templates\GameWindowContinueGame.xaml;UI Templates\GameWindowNewGame.xaml;UI Templates\TestPage.xaml;
+Controls\CharacterOverviewControl.xaml;Controls\CombatControl.xaml;Controls\ContinueGameControl.xaml;Controls\InventoryControl.xaml;Controls\MainCharacterUIControl.xaml;Controls\NewCharacterControl.xaml;Controls\NewGameControl.xaml;Controls\SpellsMenuControl.xaml;MainWindow.xaml;Resources\Images.xaml;Resources\Textures.xaml;UI Templates\Credits.xaml;UI Templates\GameWindow.xaml;
 splashscreen-wc.png
 False
 

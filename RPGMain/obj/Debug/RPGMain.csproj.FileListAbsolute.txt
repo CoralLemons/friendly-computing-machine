@@ -1,26 +1,38 @@
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\RPGMain.exe.config
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\RPGMain.exe
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\bin\Debug\RPGMain.pdb
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.AssemblyReference.cache
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Images.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Textures.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\CharacterOverviewControl.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\CombatControl.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\ContinueGameControl.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\InventoryControl.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\MainCharacterUIControl.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\NewCharacterControl.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\NewGameControl.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\SpellsMenuControl.g.cs
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\MainWindow.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\Credits.g.cs
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindow.g.cs
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\App.g.cs
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain_MarkupCompile.cache
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain_MarkupCompile.lref
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\App.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\CharacterOverviewControl.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\CombatControl.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\ContinueGameControl.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\InventoryControl.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\MainCharacterUIControl.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\NewCharacterControl.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\NewGameControl.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Controls\SpellsMenuControl.baml
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\MainWindow.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\Credits.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindow.baml
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.g.resources
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.Properties.Resources.resources
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.GenerateResource.cache
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.CoreCompileInputs.cache
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.exe
 C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.pdb
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\Credits.g.cs
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowContinueGame.g.cs
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowNewGame.g.cs
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\Credits.baml
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowContinueGame.baml
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\GameWindowNewGame.baml
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Images.baml
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\Resources\Textures.baml
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\App.baml
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\TestPage.g.cs
-C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\UI Templates\TestPage.baml
+C:\Users\LeeAnn.Warren\Documents\Coding Practice\RPGMain\obj\Debug\RPGMain.csproj.AssemblyReference.cache

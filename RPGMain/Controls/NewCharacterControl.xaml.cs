@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace RPGMain.UI_Templates
+namespace RPGMain.Controls
 {
     /// <summary>
-    /// Interaction logic for TestPage.xaml
+    /// Interaction logic for NewCharacterControl.xaml
     /// </summary>
-    public partial class TestPage : Page
+    public partial class NewCharacterControl : UserControl
     {
-        public TestPage()
+        public NewCharacterControl()
         {
             InitializeComponent();
         }

@@ -55,18 +55,68 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Controls\CharacterOverviewControl.xaml.cs">
+      <DependentUpon>CharacterOverviewControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\CombatControl.xaml.cs">
+      <DependentUpon>CombatControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ContinueGameControl.xaml.cs">
+      <DependentUpon>ContinueGameControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\InventoryControl.xaml.cs">
+      <DependentUpon>InventoryControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MainCharacterUIControl.xaml.cs">
+      <DependentUpon>MainCharacterUIControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\NewCharacterControl.xaml.cs">
+      <DependentUpon>NewCharacterControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\NewGameControl.xaml.cs">
+      <DependentUpon>NewGameControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\SpellsMenuControl.xaml.cs">
+      <DependentUpon>SpellsMenuControl.xaml</DependentUpon>
+    </Compile>
     <Compile Include="UI Templates\Credits.xaml.cs">
       <DependentUpon>Credits.xaml</DependentUpon>
     </Compile>
-    <Compile Include="UI Templates\GameWindowContinueGame.xaml.cs">
-      <DependentUpon>GameWindowContinueGame.xaml</DependentUpon>
+    <Compile Include="UI Templates\GameWindow.xaml.cs">
+      <DependentUpon>GameWindow.xaml</DependentUpon>
     </Compile>
-    <Compile Include="UI Templates\GameWindowNewGame.xaml.cs">
-      <DependentUpon>GameWindowNewGame.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="UI Templates\TestPage.xaml.cs">
-      <DependentUpon>TestPage.xaml</DependentUpon>
-    </Compile>
+    <Page Include="Controls\CharacterOverviewControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\CombatControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\ContinueGameControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\InventoryControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\MainCharacterUIControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\NewCharacterControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\NewGameControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Controls\SpellsMenuControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -91,15 +141,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="UI Templates\GameWindowContinueGame.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="UI Templates\GameWindowNewGame.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="UI Templates\TestPage.xaml">
+    <Page Include="UI Templates\GameWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -133,9 +175,28 @@
   <ItemGroup>
     <SplashScreen Include="SplashScreen-WC.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Resources\Imgs\altCharacter-1.png" />
+    <Resource Include="Resources\Imgs\altCharacter-2.png" />
+    <Resource Include="Resources\Imgs\altCharacter-3.png" />
+    <Resource Include="Resources\Imgs\altCharacter-4.png" />
+    <Resource Include="Resources\Imgs\altCharacter-5.png" />
+    <Resource Include="Resources\Imgs\altCharacter-6.png" />
+    <Resource Include="Resources\Imgs\altCharacter-7.png" />
+    <Resource Include="Resources\Imgs\altCharacter-8.png" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\Imgs\default-character.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Imgs\Gifs\gem.gif" />
+    <Resource Include="Resources\Imgs\Gifs\horned-slime.gif" />
+    <Resource Include="Resources\Imgs\Gifs\neon-horned-slime.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Imgs\Sprites\gem-sprite.png" />
+    <Resource Include="Resources\Imgs\Sprites\horned-slime.png" />
+    <Resource Include="Resources\Imgs\Sprites\neon-horned-slime.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
