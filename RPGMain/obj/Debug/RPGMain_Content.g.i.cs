@@ -8,7 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/gifs/forest-walking.gif")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/gifs/parallax-mountain.gif")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/transparent%20backgrounds/gem-large-static.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/transparent%20backgrounds/horned-slime.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/transparent%20backgrounds/neon-horned-slime-group.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/transparent%20backgrounds/neon-horned-slime-single.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/imgs/transparent%20backgrounds/neon-horned-slime.png")]
 
 
