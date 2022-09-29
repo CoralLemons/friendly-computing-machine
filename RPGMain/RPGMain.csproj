@@ -207,8 +207,7 @@
     <Resource Include="Resources\Imgs\Gifs\walking.gif" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\Imgs\gem-large-static.png" />
-    <Resource Include="Resources\Imgs\idle-character-nav.png" />
+    <Resource Include="Resources\Imgs\Sprites\idle-character-nav.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\Imgs\Gifs\forest-walking.gif" />

@@ -9,8 +9,9 @@
     <Image x:Key="altCharacter-6" Source="/RPGMain;component/Resources/Imgs/altCharacter-6.png"/>
     <Image x:Key="altCharacter-7" Source="/RPGMain;component/Resources/Imgs/altCharacter-7.png"/>
     <Image x:Key="altCharacter-8" Source="/RPGMain;component/Resources/Imgs/altCharacter-8.png"/>
-    <Image x:Key="idleNav" Source="/RPGMain;component/Resources/Imgs/idle-character-nav.png"/>
+    <Image x:Key="idleNav" Source="/RPGMain;component/Resources/Imgs/Sprites/idle-character-nav.png"/>
     <Image x:Key="staticGem" Source="/RPGMain;component/Resources/Imgs/Sprites/gem-large-static.png"/>
     <Image x:Key="staticSingleNeonSlime" Source="/RPGMain;component/Resources/Imgs/Sprites/neon-horned-slime-single.png"/>
     <Image x:Key="staticDoubleNeonSlime" Source="/RPGMain;component/Resources/Imgs/Sprites/neon-horned-slime-group.png"/>
+    
 </ResourceDictionary>
